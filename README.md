@@ -13,4 +13,4 @@ Users should be able to:
 
 ## Links 🔗:
 
-- Solution URL: [Order summary card](#)
+- Solution URL: [Order summary card](https://gifted-heyrovsky-f4f1aa.netlify.app/)
